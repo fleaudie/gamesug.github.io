@@ -1,0 +1,183 @@
+body
+{
+    /*background-image: url("../img/allgames.jpg");
+    background-repeat: repeat;*/
+    background-color: #cae1ff;
+}
+
+
+.baslik
+{
+    background-color: #6e7b8b;
+    text-align: center;
+    font-size: 20px;
+    block-size: auto;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    box-shadow: 0px 10px 10px black;
+}
+.butonust
+{
+    display: inline;
+    margin-top: 40px;
+    margin-bottom: 15px;
+    padding-inline: 30px;
+    list-style: none;
+    font-size: 15px;
+}
+.a2
+{
+    color: rgb(0, 0, 0);
+}
+.a2:hover
+{
+    color: rgb(126, 126, 202);
+}
+
+
+.arkaplan
+{
+    background-color: rgb(255, 255, 255);
+    background-size: 300px;
+    block-size: 30px;
+    box-shadow: 0px 10px 10px black;
+}
+
+
+.anabilgi
+{
+    background-color: #bcd2ee;
+    block-size: auto;
+    box-shadow: 0px 10px 10px black;
+}
+.yazi1
+{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.konum
+{
+    margin-right: 30px;
+}
+
+
+.arkaplan2
+{
+    background-color: rgb(255, 255, 255);
+    block-size: auto;
+    box-shadow: 0px 10px 10px black;
+}
+.butontur
+{
+    background-color: #6e7b8b;
+    border-radius: 25px 25px 25px 25px;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 200px;
+    block-size: 50px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    border: 3px solid #a2b5cd;
+    box-shadow: 0px 0px 20px black;
+}
+.a3:visited
+{
+    color: rgb(239, 50, 221);
+}
+.a3:hover
+{
+    color: rgb(18, 131, 243);
+}
+.konum2
+{
+    margin-right: 5px;
+    margin-top: 10px;
+}
+
+
+.taban
+{
+    block-size: auto;
+    background-color: #6e7b8b;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0px 10px 10px black;
+}
+.butonalt
+{
+    margin-top: 30px;
+    font-size: 20px;
+    display: inline;
+    padding-inline: 30px;
+    list-style: none;
+}
+/*-------------------
+oyun türleri sayfaları için
+------------------- */
+.arkaplantur
+{
+    background-color: rgb(255, 255, 255);
+    block-size: auto;
+    box-shadow: 0px 10px 10px black;
+}
+.butonanasayfa
+{
+    background-color: rgb(37, 18, 147);
+    border-radius: 25px 25px 25px 25px;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 200px;
+    block-size: 50px;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    border: 3px solid rgb(100, 176, 252);
+    box-shadow: 0px 0px 10px black;
+}
+.butonsteam
+{
+    
+    background-color: rgb(37, 18, 147);
+    border-radius: 25px 25px 25px 25px;
+    margin-bottom: 5px;
+    width: 200px;
+    block-size: 50px;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    border: 3px solid rgb(100, 176, 252);
+    box-shadow: 0px 0px 10px black;
+}
+.konumoyuntur
+{
+    margin-top: 50px;
+}
+.oyunbilgi
+{
+    block-size: auto;
+    margin-top: 5px;
+    margin-right: 20px;
+}
+.knmoyunresim
+{
+    margin-left: 20px;
+    margin-bottom: 50px;
+}
+.knmoyunresim2
+{
+    margin-right: 20px;
+}
+.resimarka
+{
+    background-color: white;
+    box-shadow: 0px 10px 10px black;
+}
+.steamarka
+{
+    background-color: white;
+    block-size: auto;
+    box-shadow: 0px 10px 10px black; 
+}
